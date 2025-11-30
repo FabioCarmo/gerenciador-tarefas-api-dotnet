@@ -1,0 +1,5 @@
+
+# Ignorar diretorios e arquivo do Git
+
+bin/
+obj/
